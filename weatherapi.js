@@ -4,3 +4,4 @@ fetch('https://api.openweathermap.org/data/2.5/forecast?q=SanFrancisco&appid={54
 
 
 //   api.openweathermap.org/data/2.5/forecast?q={city name}&appid={API key}
+// making another comment for testing purposes
